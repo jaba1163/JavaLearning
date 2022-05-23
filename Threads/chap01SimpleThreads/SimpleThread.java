@@ -1,5 +1,6 @@
 package Threads.chap01SimpleThreads;
 
+//simple thread
 public class SimpleThread implements Runnable
 {
 
